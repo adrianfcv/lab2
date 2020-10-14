@@ -1,0 +1,27 @@
+h1 {
+  font-weight: bold;
+  text-align: center;
+}
+
+form {
+  text-align: center;
+}
+
+#weatherResults {
+  text-align: center;
+  background-color: #99ccff;
+  border: 2px solid black;
+  border-radius: 15px;
+}
+
+#forecastResults {
+  background-color: #ffffcc;
+  border: 2px solid black;
+  border-radius: 15px;
+  text-align: center;
+}
+
+.container  {
+  border: 5px solid orange;
+  text-align: center; 
+}
